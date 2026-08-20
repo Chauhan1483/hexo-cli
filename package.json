@@ -1,6 +1,6 @@
 {
   "name": "hexo-cli",
-  "version": "0.1.42",
+  "version": "0.1.43",
   "description": "Command line interface for Hexo",
   "main": "src/index.ts",
   "scripts": {
